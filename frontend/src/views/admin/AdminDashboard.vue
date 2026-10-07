@@ -60,7 +60,7 @@
         </template>
 
         <div class="crawler-actions">
-          <el-button type="primary" :icon="Play" @click="startCrawl" :disabled="crawlerStatus.running">
+          <el-button type="primary" :icon="VideoPlay" @click="startCrawl" :disabled="crawlerStatus.running">
             开始爬取
           </el-button>
           <el-button type="success" :icon="Refresh" @click="refreshCrawlerConfig" :disabled="crawlerStatus.running">
@@ -144,7 +144,7 @@ import { ref, onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage, ElMessageBox } from 'element-plus'
 import {
-  Document, User, Calendar, Download, Play, Refresh, RefreshLeft,
+  Document, User, Calendar, Download, VideoPlay, Refresh, RefreshLeft,
   Files, Setting, DataAnalysis, Notebook
 } from '@element-plus/icons-vue'
 
