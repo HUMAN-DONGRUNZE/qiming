@@ -1,2 +1,3 @@
 # 启明
-![License](https://img.shields.io/github/license/HUMAN_DONGRUNZE/qiming)
+
+![License](https://img.shields.io/github/license/HUMAN-DONGRUNZE/qiming)
