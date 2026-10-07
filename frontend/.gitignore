@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+dist/
+.nuxt/
+.cache/
+.vuepress/dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# 本地环境
+.env
+.env.local
+.env.*.local
