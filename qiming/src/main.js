@@ -4,4 +4,6 @@ import './registerServiceWorker'
 
 import './assets/main.css'
 
-createApp(App).mount('#app')
+import router from './router'
+
+createApp(App).use(router).mount('#app')
