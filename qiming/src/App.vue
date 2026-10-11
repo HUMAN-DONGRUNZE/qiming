@@ -1,39 +1,6 @@
 <template>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <img alt="Vue logo" src="./assets/logo.png">
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
-  a <br>
 </template>
 
 <script>
