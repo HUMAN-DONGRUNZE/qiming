@@ -12,8 +12,10 @@
     "vue": "^3.2.13"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-pwa": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "tailwindcss": "^4.3.3"
   }
 }
